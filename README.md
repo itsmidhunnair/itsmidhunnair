@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midhunnair01
+- 👋 Hi, I’m Midhun Nair
 - 📫 Reach me out at http://midhunnair.ml
 
 <!---
