@@ -66,14 +66,14 @@
 </p>
 </div>
 <div style="border:1px solid #2196f3; border-radius:8px; width:max-content; padding:15px; padding-top:4px; padding-bottom:4px; margin-bottom:15px">
-<h5 style="line-height:0">Design Tools</h5>
+<h5 style="line-height:0">Programming Language</h5>
 <p align="left" style="display:flex; gap:15px; flex-wrap:wrap;">
 <!-- Javascript --><a style="max-width:40px; display:flex; justify-content:center; padding:10px; border:1px solid; border-radius:8px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <!-- Typescript --><a style="max-width:40px; display:flex; justify-content:center; padding:10px; border:1px solid; border-radius:8px" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 </div>
 <div style="border:1px solid #2196f3; border-radius:8px; width:max-content; padding:15px; padding-top:4px; padding-bottom:4px; margin-bottom:15px">
-<h5 style="line-height:0">Programming Language</h5>
+<h5 style="line-height:0">Design Tools</h5>
 <p align="left" style="display:flex; gap:15px; flex-wrap:wrap;">
 <!-- Figma --><a style="max-width:40px; display:flex; justify-content:center; padding:10px; border:1px solid; border-radius:8px" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <!-- XD --><a style="max-width:40px; display:flex; justify-content:center; padding:10px; border:1px solid; border-radius:8px" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
