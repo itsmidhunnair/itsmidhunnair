@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmidhunnair&label=Profile%20views&color=0e75b6&style=flat" alt="itsmidhunnair" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmidhunnair&column=3" alt="itsmidhunnair" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=itsmidhunnair&column=3" alt="itsmidhunnair" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/midhun_n_a_i_r" target="blank"><img src="https://img.shields.io/twitter/follow/midhun_n_a_i_r?logo=twitter&style=for-the-badge" alt="midhun_n_a_i_r" /></a> </p>
 
