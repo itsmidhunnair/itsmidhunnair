@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/midhun_n_a_i_r" target="blank"><img src="https://img.shields.io/twitter/follow/midhun_n_a_i_r?logo=twitter&style=for-the-badge" alt="midhun_n_a_i_r" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [midhunnair.tech](midhunnair.tech)
+- 👨‍💻 All of my projects are available at [midhunnair.dev](midhunnair.dev)
 
 - 💬 Ask me about **React, Node, Express, MongoDb, REST api, Graphql, Next.js**
 
-- 📫 Reach me at **hey@midhunnair.tech**
+- 📫 Reach me at **hey@midhunnair.dev**
 
-- 📄 Know about my experiences [midhunnair.tech/resume](midhunnair.tech/resume)
+- 📄 Know about my experiences [midhunnair.dev/resume](midhunnair.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex; gap:15px">
